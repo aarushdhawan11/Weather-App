@@ -33,7 +33,7 @@ To get a local copy up and running, follow these simple steps:
 
 ### **1️⃣ Clone the repository:**  
 ```bash
-git clone https://github.com/aarushdhawan1511/Weather-App.git
+git clone https://github.com/aarushdhawan11/Weather-App.git
 ```  
 
 ### **2️⃣ Navigate to the project directory:**  
